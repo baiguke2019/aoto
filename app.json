@@ -13,7 +13,7 @@
     ],
   "repository": "https://github.com/EverythingSuckz/TG-FileStreamBot",
   "success_url": "/",
-  "website": "stream.wrench.gq",
+  "website": "aoto.eu.org",
   "env": {
       "ENV": {
           "description": "Set this to True if you don't want to crash the bot",
